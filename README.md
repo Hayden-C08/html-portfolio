@@ -1,2 +1,2 @@
 # html-portfolio
-This website provides links ad previws to my projects.
+This website provides links and previews to my projects.
